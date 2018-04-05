@@ -1,0 +1,13 @@
+#MAC_ADD,EndpointGroup,Description
+#39:C9:86:14:41:00,Staff,Endpoint-Test
+39:c9:86:14:41:00,Staff,Endpoint-Test
+39:c9:86:14:41:01,Staff,Endpoint-Test
+39:c9:86:14:41:02,Staff,Endpoint-Test
+39:c9:86:14:41:03,Staff,Endpoint-Test
+39:c9:86:14:41:04,Staff,Endpoint-Test
+39:c9:86:14:41:05,Staff,Endpoint-Test
+39:c9:86:14:41:06,Student,Endpoint-Test
+39:c9:86:14:41:07,Student,Endpoint-Test
+39:c9:86:14:41:08,Student,Endpoint-Test
+39:c9:86:14:41:09,Student,Endpoint-Test
+39:c9:86:14:41:10,Student,Endpoint-Test
